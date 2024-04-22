@@ -5,6 +5,5 @@ export const Courses = () => {
     <>
       <Navbar />
     </>
-  )
-}
-
+  );
+};
